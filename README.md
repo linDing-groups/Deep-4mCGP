@@ -29,12 +29,6 @@ git remote add origin https://github.com/linDing-groups/Deep-4mCGP.git
 git branch -M main
 git push -u origin main
 
-## For Train the Model
-    Train_CNN_Model.py
-
-## Loading the Model
-    Test.py
-     
 ## Note
 
 For files with different input sequences, you need to pay attention to the modification of parameters in code.

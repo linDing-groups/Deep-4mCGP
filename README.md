@@ -1,6 +1,5 @@
 # Deep-4mCGP
-Deep-4mCGP: A sequence-based predictor to identify N4-methylcytosine sites in Geobacter pickeringii by using correlation-based feature selection technique
-
+  A deep learning approach to predict 4mC sites in Geobacter pickeringii by using correlation-based feature selection technique
 ## Required Packages
 
     Python3 (tested 3.5.4)

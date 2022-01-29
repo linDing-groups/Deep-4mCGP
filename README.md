@@ -34,4 +34,4 @@ For files with different input sequences, you need to pay attention to the modif
 
 ## Citation
 
-Deep-4mCGP: A Deep Learning Approach to Predict 4mC Sites in Geobacter pickeringii by Using Correlation-Based Feature Selection Technique
+Zulfiqar, H., Huang, Q.L., Lv, H., Sun,Z.J., Dao, F.Y. and Lin, H. "Deep-4mCGP: A Deep Learning Approach to Predict 4mC Sites in Geobacter pickeringii by Using Correlation-Based Feature Selection Technique". International Journal of Molecular Sciences (2022), 23(3), 1251. https://doi.org/10.3390/ijms23031251
